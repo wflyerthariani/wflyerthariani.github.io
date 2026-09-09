@@ -2,4 +2,12 @@
 title: "About"
 ---
 
-About this site
+I grew up in Dubai in the UAE and left in 2021 for my undergraduate degree.
+I went to UBC to study Computer Science with a minor in Lingusitics.
+During this time I interned at multiple places mostly in the biological and genomics space.
+Most of the work involved data but I wanted to dig deeper.
+I also took a couple computational linguistics classes in my undergraduate degree which is where I heard about the MDS-CL.
+When I was in my final year, I realized that I really wanted to pursue a career in data.
+
+I love to cook, but I do not do so efficiently. It is more of a meditative exercise for me.
+I also play ultimate frisbee and spend a lot of time on Minecraft, mostly modded with tech modpacks so I can automate things in game.
