@@ -1,7 +1,10 @@
 ---
-title: "Personal Site"
+title: "Arman Thariani"
 ---
 
-This is a Quarto website.
+![](images/04dcec78-09d1-49a3-9f7e-807c97ff1d13.png){width=250px}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am Arman Thariani and I grew up in Dubai.
+I am coming to the MDS directly from my undergraduate degree where I studied computer science with a minor in linguistics at UBC as well.
+I am hoping to use this to move to a more data-oriented side of software and potentially move into something ML-related or data engineering.
+Most recently I have been interning at a genomics startup.
