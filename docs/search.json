@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
     "section": "",
-    "text": "About this site"
+    "text": "My first weeks in MDS\n\n\n\n\n\n\n\n\nSep 9, 2026\n\n\nArman Thariani\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -12,5 +12,19 @@
     "title": "Arman Thariani",
     "section": "",
     "text": "I am Arman Thariani and I grew up in Dubai. I am coming to the MDS directly from my undergraduate degree where I studied computer science with a minor in linguistics at UBC as well. I am hoping to use this to move to a more data-oriented side of software and potentially move into something ML-related or data engineering. Most recently I have been interning at a genomics startup."
+  },
+  {
+    "objectID": "posts/first-weeks/index.html",
+    "href": "posts/first-weeks/index.html",
+    "title": "My first weeks in MDS",
+    "section": "",
+    "text": "Starting cooking at the new place\n\n\nThe first week was rough. Not the program itself but everything outside of it. I was still moving apartments and having to make multiple trips across the city to move furniture. My kitchen is still bare and there are boxes everywhere. The level of disorganization is very evident but somehow I feel in control of the academic side of things.\nI started the program with my mind elsewhere so the orientation passed by without much notice. There were many people to meet but I still hesitated. It is only now that I am catching up."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I grew up in Dubai in the UAE and left in 2021 for my undergraduate degree. I went to UBC to study Computer Science with a minor in Lingusitics. During this time I interned at multiple places mostly in the biological and genomics space. Most of the work involved data but I wanted to dig deeper. I also took a couple computational linguistics classes in my undergraduate degree which is where I heard about the MDS-CL. When I was in my final year, I realized that I really wanted to pursue a career in data.\nI love to cook, but I do not do so efficiently. It is more of a meditative exercise for me. I also play ultimate frisbee and spend a lot of time on Minecraft, mostly modded with tech modpacks so I can automate things in game."
   }
 ]
